@@ -4,7 +4,7 @@
 
 Here you can find the code I used for the analysis presented in my submitted article on permeability anisotropy in granitic rocks, imparted by sub-seismic faults in an interacting damage zone (DFN approach, Elba Island case study).
 
-Contents
+Contents:
 
 **`aperture.py`** — Collects and aggregates fracture aperture data from multiple DFNWorks simulation runs into a single cumulative CSV file, for further statistical analysis.
 
