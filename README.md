@@ -20,4 +20,4 @@ where r is the fracture radius, γ is an empirical scaling factor, and β is the
 
 
 
-**`To learn more about dfnWorks, follow:`** https://github.com/lanl/dfnWorks
+**To learn more about dfnWorks, follow:** https://github.com/lanl/dfnWorks
