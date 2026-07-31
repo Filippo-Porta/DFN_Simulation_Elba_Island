@@ -1,6 +1,6 @@
 # DFN_Simulation_Elba_Island
 
-Hi, and welcome to this repository!
+***Hi, and welcome to this repository!***
 
 Here you can find the code I used for the analysis presented in my submitted article on permeability anisotropy in granitic rocks, imparted by sub-seismic faults in an interacting damage zone (DFN approach, Elba Island case study).
 
