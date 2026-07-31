@@ -17,3 +17,7 @@ The hydraulic aperture b is computed from the aperture-length scaling law:
 *b = γ · r^β*
 
 where r is the fracture radius, γ is an empirical scaling factor, and β is the scaling exponent. The sensitivity analysis explores how varying γ and β affects the resulting aperture distribution
+
+
+
+**`To learn more about dfnWorks, follow:`** https://github.com/lanl/dfnWorks
